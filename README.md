@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Development and Database Administration
 - 💞️ I’m looking to collaborate on Silk Road Professionals Company
 - 📫 How to reach me :
-- By email boburinfo2006@gmail.com
+- By email bobur.yu@anur.tj
 - By phone number +992004772410
 
 <!---
