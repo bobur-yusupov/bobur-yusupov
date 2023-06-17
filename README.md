@@ -1,6 +1,7 @@
 ## Hi there, I'm Bobur
+### Software Developer Intern at SRP
 
-- 👀 I’m interested in Full-Stack Dvelopment and AI Development
+- 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently learning Backend Development and Database Administration
 - 💞️ I’m looking to collaborate on Silk Road Professionals Company
 - 📫 How to reach me :
