@@ -3,10 +3,12 @@
 
 - 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently learning Backend Development and Database Administration
-- 💞️ I’m looking to collaborate on Silk Road Professionals Company
 - 📫 How to reach me :
 - By email bobur.yu@anur.tj
 - By phone number +992004772410
+- [Instagram](https://instagram.com/bobur.yusupov__)
+- [Facebook](https://facebook.com/bobur.yusupov.0219)
+- [Twitter](https://twitter.com/boburyusupov__)
 
 ![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=slateorange)
 
