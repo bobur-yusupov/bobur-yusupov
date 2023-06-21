@@ -1,4 +1,4 @@
-## Hi there, I'm Bobur
+## <center>Hi there, I'm Bobur</center>
 ### Software Developer Intern at SRP
 
 - 👀 I’m interested in Software Development and AI
