@@ -10,7 +10,7 @@
 - [Facebook](https://facebook.com/bobur.yusupov.0219)
 - [Twitter](https://twitter.com/boburyusupov__)
 
-![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=slateorange)
+![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=transparent)
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +23,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Frameword-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
