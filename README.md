@@ -2,7 +2,7 @@
 ### Software Developer Intern at SRP
 
 - 👀 I’m interested in Software Development and AI
-- 🌱 I’m currently learning Backend Development and Database Administration
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me :
 - By email bobur.yu@anur.tj
 - By phone number +992004772410
