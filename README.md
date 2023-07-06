@@ -1,8 +1,8 @@
-## <center>Hi there, I'm Bobur</center>
+# <div style="text-align:center; width: 100%;">Hi there, I'm Bobur</div>
 ### Software Developer Intern at SRP
 
-- 👀 I’m interested in Software Development and AI
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in DevOps and Cloud☁️
+- 🌱 I’m currently learning DevOps and Software Engineering
 - 📫 How to reach me :
 - By email bobur.yu@anur.tj
 - By phone number +992004772410
