@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning DevOps and Software Engineering
 - 📫 How to reach me :
 - By email bobur.yu@anur.tj
-- By phone number +992004772410
 - [Instagram](https://instagram.com/bobur.yusupov__)
 - [Facebook](https://facebook.com/bobur.yusupov.0219)
 - [Twitter](https://twitter.com/boburyusupov__)
