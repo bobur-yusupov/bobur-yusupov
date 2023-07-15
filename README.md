@@ -1,7 +1,7 @@
 # <div style="text-align:center; width: 100%;">Hi there, I'm Bobur</div>
 ### Software Developer Intern at SRP
 
-- Interested in <i>AI and Cloud☁️</i>
+- Interested in <b>AI and Cloud☁️</b>
 - 🌱 I’m currently learning DevOps and Software Engineering
 - 📫 How to reach me :
 - By email bobur.yu@anur.tj
