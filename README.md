@@ -10,7 +10,7 @@
 - [Twitter](https://twitter.com/boburyusupov__)
 
 ![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=default#gh-light-mode-only)
-[![Bobur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bobur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-yusupov&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
