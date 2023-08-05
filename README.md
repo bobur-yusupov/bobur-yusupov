@@ -3,9 +3,8 @@
 
 - Interested in <b>AI and Cloud☁️</b>
 - 🌱 I’m currently learning DevOps and Software Engineering
-- 📫 How to reach me :
-- 🧪Try to find and fix bugs using TDD
-- By email bobur.yu@anur.tj
+- 🧪Try to find and fix bugs using Test Driven Development
+- I am on Social Media
 - [Instagram](https://instagram.com/bobur.yusupov__)
 - [Facebook](https://facebook.com/bobur.yusupov.0219)
 - [Twitter](https://twitter.com/boburyusupov__)
