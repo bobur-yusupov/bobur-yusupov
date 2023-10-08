@@ -1,5 +1,5 @@
 # <div style="text-align:center; width: 100%;">Hi there, I'm Bobur</div>
-### Software Developer Intern at Silk Road Professionals Tajikistan
+### Software Developer (React/Django)
 
 - Interested in <b>AI and Cloud☁️</b>
 - 🌱 I’m currently learning DevOps and Software Engineering
