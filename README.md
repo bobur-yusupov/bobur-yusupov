@@ -56,3 +56,6 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yusupov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Badges
+![Linux Commands & Shell Scripting Essentials V2](https://www.credly.com/badges/0049c502-3eb3-4bb3-9c4f-d7feb8b80d40/public_url)
