@@ -1,13 +1,15 @@
 # <div style="text-align:center; width: 100%;">Hi there, I'm Bobur</div>
-### Software Developer (React/Django)
+### Software Engineer (React/Django)
 
-- Interested in <b>AI and Cloud☁️</b>
-- 🌱 I’m currently learning DevOps and Software Engineering
-- 🧪Try to find and fix bugs using Test Driven Development
-- I am on Social Media
-- [Instagram](https://instagram.com/bobur.yusupov__)
-- [Facebook](https://facebook.com/bobur.yusupov.0219)
-- [Twitter](https://twitter.com/boburyusupov__)
+I am a passionate software engineer with experience in building dynamic, user-friendly web applications using **React** and **Django**. My focus is on writing clean, maintainable code, with a strong emphasis on **Test-Driven Development (TDD)** to ensure quality and performance.
+
+- 🌱 Currently expanding my skills in **DevOps** and **Software Engineering** to streamline deployment processes and improve system efficiency.
+- 🚀 **Interested in AI and Cloud☁️**, exploring how cutting-edge technology can be integrated into modern web development to create smarter applications.
+- 🧪 Dedicated to finding and fixing bugs using a **TDD approach**, ensuring a robust and scalable codebase.
+- 🛠️ I enjoy continuous learning, particularly in the areas of **automation**, **containerization**, and **CI/CD** pipelines.
+
+Connect with me on social media to follow my journey in tech or check out my open-source contributions on GitHub!
+
 
 
 ### Certificates and Badges
