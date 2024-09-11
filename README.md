@@ -61,6 +61,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yusupov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0049c502-3eb3-4bb3-9c4f-d7feb8b80d40" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
-
 [![committers.top badge](https://user-badge.committers.top/tajikistan/dev-yusupov.svg)](https://user-badge.committers.top/tajikistan/dev-yusupov)
