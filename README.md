@@ -9,6 +9,9 @@
 - [Facebook](https://facebook.com/bobur.yusupov.0219)
 - [Twitter](https://twitter.com/boburyusupov__)
 
+
+### Certificates and Badges
+[![committers.top badge](https://user-badge.committers.top/tajikistan/dev-yusupov.svg)](https://user-badge.committers.top/tajikistan/dev-yusupov)
 ![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=default#gh-light-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-yusupov&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -60,5 +63,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yusupov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Badges
-[![committers.top badge](https://user-badge.committers.top/tajikistan/dev-yusupov.svg)](https://user-badge.committers.top/tajikistan/dev-yusupov)
