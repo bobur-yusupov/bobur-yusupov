@@ -19,7 +19,10 @@ Connect with me on social media to follow my journey in tech or check out my ope
 [![committers.top badge](https://user-badge.committers.top/tajikistan/dev-yusupov.svg)](https://user-badge.committers.top/tajikistan/dev-yusupov)
 
 ### Stats
-![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=default#gh-light-mode-only)
+<div style="display: flex; flex-direction: row;">
+  ![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=default#gh-light-mode-only)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-yusupov&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -67,6 +70,3 @@ Connect with me on social media to follow my journey in tech or check out my ope
 ### Tools
 ![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-
