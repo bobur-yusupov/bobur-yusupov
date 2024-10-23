@@ -11,12 +11,9 @@ I am a passionate software engineer with experience in building dynamic, user-fr
 Connect with me on social media to follow my journey in tech or check out my open-source contributions on GitHub!
 
 ### Social Media
-- [Instagram](https://instagram.com/bobur.yusupov__)
+- [Instagram](https://instagram.com/bobur.yusup0v)
 - [Facebook](https://facebook.com/bobur.yusupov.0219)
 - [Twitter](https://twitter.com/boburyusupov__)
-
-### Certificates and Badges
-[![committers.top badge](https://user-badge.committers.top/tajikistan/dev-yusupov.svg)](https://user-badge.committers.top/tajikistan/dev-yusupov)
 
 ### Stats
 <div style="display: flex; flex-direction: row;">
