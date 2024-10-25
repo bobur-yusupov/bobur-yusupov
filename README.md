@@ -6,7 +6,7 @@ I am a passionate software engineer with experience in building dynamic, user-fr
 - 🌱 Currently expanding my skills in **DevOps** and **Software Engineering** to streamline deployment processes and improve system efficiency.
 - 🚀 **Interested in AI and Cloud☁️**, exploring how cutting-edge technology can be integrated into modern web development to create smarter applications.
 - 🧪 Dedicated to finding and fixing bugs using a **TDD approach**, ensuring a robust and scalable codebase.
-- 🛠️ I enjoy continuous learning, particularly in the areas of **automation**, **containerization**, and **CI/CD** pipelines.
+- 🛠️ I enjoy continuous learning, particularly in the areas of **automation**, **containerization**, **test automation** and **CI/CD** pipelines.
 
 Connect with me on social media to follow my journey in tech or check out my open-source contributions on GitHub!
 
