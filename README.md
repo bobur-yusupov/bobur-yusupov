@@ -1,4 +1,5 @@
-# <div style="text-align:center; width: 100%;">Hi there, I'm Bobur</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hi+there%2C+I'm+Bobur+Yusupov;I+am+a+Software+Developer)](https://git.io/typing-svg)
+
 ### Software Engineer (React/Django)
 
 I am a passionate software engineer with experience in building dynamic, user-friendly web applications using **React** and **Django**. My focus is on writing clean, maintainable code, with a strong emphasis on **Test-Driven Development (TDD)** to ensure quality and performance.
