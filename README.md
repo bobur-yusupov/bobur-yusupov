@@ -26,8 +26,6 @@ Connect with me on social media to follow my journey in tech or check out my ope
 
 [![Bobur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-yusupov&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![committers.top badge](https://user-badge.committers.top/hungary/dev-yusupov.svg)](https://user-badge.committers.top/hungary/dev-yusupov)
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
