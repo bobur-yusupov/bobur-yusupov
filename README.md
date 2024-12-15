@@ -14,7 +14,7 @@ Connect with me on social media to follow my journey in tech or check out my ope
 ### Social Media
 - [Instagram](https://instagram.com/bobur.yusup0v)
 - [Facebook](https://facebook.com/bobur.yusupov.0219)
-- [Twitter](https://twitter.com/boburyusupov__)
+- [Twitter](https://twitter.com/bobur.yusup0v)
 
 ### Stats
 <div style="display: flex; flex-direction: row;">
