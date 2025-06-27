@@ -18,13 +18,13 @@ Connect with me on social media to follow my journey in tech or check out my ope
 
 ### Stats
 <div style="display: flex; flex-direction: row;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-yusupov&show_icons=true&theme=default#gh-light-mode-only" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yusupov&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobur-yusupov&show_icons=true&theme=default#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobur-yusupov&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-yusupov&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bobur-yusupov&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Bobur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-yusupov&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bobur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bobur-yusupov&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
