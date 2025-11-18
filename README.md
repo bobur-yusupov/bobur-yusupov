@@ -28,3 +28,5 @@ Connect with me on social media to follow my journey in tech or check out my ope
 
 ## Certificates
 <img width="128" height="128" alt="lfs158-introduction-to-kubernetes" src="https://github.com/user-attachments/assets/f6cb38c9-40c3-44a2-a8f5-178173020416" />
+<img width="128" height="128" alt="lfs244-managing-kubernetes-applications-with-helm" src="https://github.com/user-attachments/assets/5e8be3fb-b233-4adc-bc38-0cca873f2896" />
+
